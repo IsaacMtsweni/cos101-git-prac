@@ -1,2 +1,1 @@
 
-PS C: \Users\Isaac\Desktop\Documents\COS101\github> git clone https://github.com/IsaacMtsweni/cos101-git-prac
